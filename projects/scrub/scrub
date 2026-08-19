@@ -1,0 +1,10 @@
+<a href="https://zoochosis-blog.github.io/" id="avatar" class="rounded-circle"> <!-- avatar circle style and format-->
+            <img src="https://lh3.googleusercontent.com/pw/AP1GczO67XTEWozXdi8xQNoCoCant53tPrz825J2WqKdWejzAmJHvz8Axt5ygtbayrJ7ZmDRTIBjLTfQP2ZOb_2FBWBM09CRcNZFpKbB73-WxZxB2pVpJ4M=w2400" 
+             alt="avatar">
+
+
+.image-container {
+  position: relative;
+  width: 100%;
+  max-width: 400px; /* Adjust the max-width as needed */
+}
